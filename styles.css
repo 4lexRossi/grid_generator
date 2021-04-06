@@ -1,3 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
 .header {
   display: flex;
   justify-content: center;
@@ -9,6 +16,7 @@
   grid-template-rows: repeat(6, 1fr);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
+  height: 90vh;
   }
   
   .div1 { 
@@ -39,10 +47,4 @@
   .div7 { 
     grid-area: 5 / 2 / 7 / 5;
     background-color: darkmagenta; 
-  }
-  
-  .footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
   }
