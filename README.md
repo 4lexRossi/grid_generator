@@ -22,4 +22,4 @@ Veja mais em: [Documentação CSS Grid Layout](https://developer.mozilla.org/pt-
     <img src="https://avatars.githubusercontent.com/u/54479807?v=4" title="Matheus Ricardo Brunelli" style="float: right; margin-right: 15%;" width="150px">
   </a>
 </p>
-<p style="display: flex; justify-content: center;"><h3>Alex Rossi</h3><h3>Matheus Brunelli</h3></p>
+
