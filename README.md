@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/stars/4lexRossi/slide-bar.svg) ![](https://img.shields.io/github/forks/4lexRossi/slide-bar.svg) ![](https://img.shields.io/github/issues/4lexRossi/slide-bar.svg)
+![](https://img.shields.io/github/stars/4lexRossi/grid_generator.svg) ![](https://img.shields.io/github/forks/4lexRossi/grid_generator.svg) ![](https://img.shields.io/github/issues/4lexRossi/grid_generator.svg)
 
 ## CSS Grid Example
 > Grid gerado pela ferramenta **cssgrid-generator**
