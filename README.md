@@ -15,7 +15,7 @@ Veja mais em: [Documentação CSS Grid Layout](https://developer.mozilla.org/pt-
 ##### Screenshot
 ![](assets/screenshot.png)
 
-<h1 align="center">Contributors</h1>
+---
 
 [![Alexsander Rossi](https://github.com/4lexRossi.png?size=150)](https://www.linkedin.com/in/4lex/) | [![Matheus Brunelli](https://github.com/mrbrunelli.png?size=150)](https://www.linkedin.com/in/mrbrunelli/)|
 --- |
