@@ -17,6 +17,6 @@ Veja mais em: [Documentação CSS Grid Layout](https://developer.mozilla.org/pt-
 
 ---
 
-[![Alexsander Rossi](https://github.com/4lexRossi.png?size=100)](https://www.linkedin.com/in/4lex/) | [![Matheus Brunelli](https://github.com/mrbrunelli.png?size=100)](https://www.linkedin.com/in/mrbrunelli/)|
---- |
+[![Alexsander Rossi](https://github.com/4lexRossi.png?size=100)](https://www.linkedin.com/in/4lex/) | [![Matheus Brunelli](https://github.com/mrbrunelli.png?size=100)](https://www.linkedin.com/in/mrbrunelli/)
+
 [Alexsander Rossi](https://www.linkedin.com/in/4lex/) | [Matheus Brunelli](https://www.linkedin.com/in/mrbrunelli/)   
